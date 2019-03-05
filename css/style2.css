@@ -1,0 +1,21 @@
+.container {
+  display: grid;
+  grid-template-columns: 2fr 5fr 2fr;
+  height: 100vh;
+}
+
+#border, #border2 {
+  background: #15012d;
+  background-size: cover;
+  height: 100vh;
+}
+
+#middle {
+  background: #15012d;
+  color: #fff;
+}
+
+*{
+  margin: 0;
+  padding: 0;
+}
