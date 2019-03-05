@@ -29,7 +29,7 @@
       "color": "#bbc1cf"
     },
     "move":{
-      "direction": "none",
+      "direction": "right",
       "speed": 1.5
     }
   },
