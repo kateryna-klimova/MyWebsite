@@ -23,8 +23,6 @@
   position: absolute;
   top: 60%;
   left: 50%;
-  transform: translateX(-50%); /*Added*/
-  z-index: -1;
   font-style: italic;
   word-spacing: -10;
 }
