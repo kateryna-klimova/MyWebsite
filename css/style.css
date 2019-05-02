@@ -21,8 +21,10 @@
   padding: 10px 20px;
   border-radius: 10px;
   position: absolute;
-  top: 47vh;
-  left: 62vh;
+  top: 60%;
+  left: 50%;
+  transform: translateX(-50%); /*Added*/
+  z-index: -1;
   font-style: italic;
   word-spacing: -10;
 }
