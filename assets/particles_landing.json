@@ -29,6 +29,7 @@
       "color": "#bbc1cf"
     },
     "move":{
+      "enable": true,
       "direction": "none",
       "speed": 1.5
     }
