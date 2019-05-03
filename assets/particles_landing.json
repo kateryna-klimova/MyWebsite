@@ -30,7 +30,7 @@
     },
     "move":{
       "enable": true,
-      "direction": "none",
+      "direction": "left",
       "speed": 1.5
     }
   },
