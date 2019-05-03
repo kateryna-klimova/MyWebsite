@@ -42,6 +42,21 @@
   word-spacing: -10;
 }
 
+#particles-js > #resume_button {
+  font-size: 25px;
+  text-decoration: none;
+  color: #494949;
+  border: #494949 1px solid;
+  display: flex;
+  padding: 10px 20px;
+  border-radius: 10px;
+  position: absolute;
+  top: 10%;
+  left: 95%;
+  font-style: italic;
+  word-spacing: -10;
+}
+
 #particles-js .button:hover{
   background:#918d8d;
   color:#fff;
